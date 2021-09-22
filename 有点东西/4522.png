@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<meta charset="utf-8" />
+<link
+  rel="shortcut icon"
+  href="/favicon.ico"
+  type="image/x-icon"
+/>
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"
+/>
+<title>4522.png - 回形针PaperClip&大象公会视频归档站</title>
+<!--
+    OneManager: An index & manager of Onedrive auth by ysun.
+    Github: https://github.com/qkqpttgf/OneManager-php
+-->
+<meta name="description" content="A Onemanager-PHP site with Theme-renexmoe" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v1.3/css/app.css"><meta name="theme-color" content="#fff" />
+
+
+
+  </head>
+  <body
+    class="mdui-appbar-with-toolbar mdui-theme-layout-auto mdui-loaded mdui-theme-accent-pink"
+  >
+    <header
+  class="mdui-appbar mdui-appbar-fixed mdui-shadow-0 mdui-appbar-scroll-toolbar-hide"
+>
+  <div class="mdui-toolbar">
+  <span
+    class="mdui-btn mdui-btn-icon mdui-ripple mdui-ripple-white"
+    onclick='mdui.$("body").toggleClass("mdui-drawer-body-left");'
+    id="toggle-drawer"
+    ><i class="mdui-icon material-icons">menu</i></span
+  >
+  <a
+    class="mdui-btn mdui-btn-icon mdui-ripple mdui-ripple-white mdui-hidden-sm-up"
+    onclick="window.history.back()"
+  >
+    <i class="mdui-icon material-icons">arrow_back</i>
+  </a>
+  <a href="/" class="mdui-typo-headline">
+    回形针PaperClip&大象公会视频归档站
+  </a>
+  
+  <i class="mdui-icon material-icons mdui-hidden-xs" style="margin: 0"
+    >chevron_right</i
+  ><a href="/IMAGE_HOST/" class="mdui-typo-subheading mdui-hidden-xs">
+    IMAGE_HOST</a
+  >
+  
+  <i class="mdui-icon material-icons mdui-hidden-xs" style="margin: 0"
+    >chevron_right</i
+  ><a href="" class="mdui-typo-subheading mdui-hidden-xs">
+    4522.png</a
+  >
+  
+  <div class="mdui-toolbar-spacer"></div>
+  
+</div>
+
+</header>
+
+    <div class="mdui-drawer mdui-drawer-close" id="main-drawer">
+  <div class="mdui-list" mdui-collapse="{accordion: true}">
+    
+<li
+  class="mdui-list-item mdui-ripple"
+  href="javascript:void(0);"
+  mdui-dialog="{target: '#login_input'}"
+>
+  <a class="mdui-list-item-icon mdui-icon material-icons">account_circle</a
+  ><a class="mdui-list-item-content">登录</a>
+</li>
+
+
+
+    <li
+      class="mdui-list-item mdui-ripple"
+      href="javascript:void(0);"
+      onclick="renexmoe.toggle_theme();"
+    >
+      <a class="mdui-list-item-icon mdui-icon material-icons">brightness_4</a
+      ><a class="mdui-list-item-content">深色模式</a>
+    </li>
+    <li class="mdui-list-item mdui-ripple">
+      <a
+        href="/"
+        class="mdui-list-item-icon mdui-icon material-icons"
+        >home</a
+      ><a href="/" class="mdui-list-item-content" id="home">
+        首页</a
+      >
+    </li>
+    
+
+    <a
+      href="https://github.com/qkqpttgf/OneManager-php"
+      class="mdui-list-item mdui-ripple"
+      ><i class="mdui-list-item-icon mdui-icon material-icons">code</i>
+      <div class="mdui-list-item-content">Github</div>
+    </a>
+    <li
+      class="mdui-list-item mdui-ripple"
+      href="javascript:void(0);"
+      id="about_theme"
+    >
+      <i class="mdui-list-item-icon mdui-icon material-icons">info</i>
+      <div class="mdui-list-item-content">关于该主题</div>
+    </li>
+  </div>
+</div>
+
+    <div class="mdui-container">
+  <ul class="mdui-menu" id="admin-menu">
+  <li class="mdui-menu-item">
+    <a href="javascript:;" class="mdui-ripple back"
+      ><i class="mdui-menu-item-icon mdui-icon material-icons">arrow_back</i
+      >返回上一页</a
+    >
+  </li>
+  
+</ul>
+<i id="mouseplace" style="position: absolute"></i>
+
+<div class="mdui-dialog" id="login_input">
+  <div class="mdui-dialog-title">登录</div>
+  <div class="mdui-dialog-content" style="height: 108px">
+    <div class="mdui-textfield mdui-textfield-floating-label">
+      <i class="mdui-icon material-icons">lock</i
+      ><label class="mdui-textfield-label">密码</label
+      ><input
+        class="mdui-textfield-input"
+        name="password1"
+        type="password"
+        onkeydown="if(event.keyCode==13) document.querySelector('#login_btn').click();"
+      />
+    </div>
+  </div>
+  <div class="mdui-dialog-actions">
+    <button class="mdui-btn mdui-ripple" mdui-dialog-close="" id="login_close">取消</button
+    ><button
+      id="login_btn"
+      class="mdui-btn mdui-ripple"
+      type="submit"
+      value="登录"
+    >
+      登录
+    </button>
+  </div>
+</div>
+ 
+
+  
+ 
+<div
+  id="file"
+  class="mdui-shadow-3"
+  style="padding: 5px; margin: 20px 0px; padding: 20px; border-radius: 8px"
+>
+  
+<img class="mdui-img-fluid mdui-center mdui-m-t-5" src="/IMAGE_HOST/4522.png" />
+
+ 
+
+  
+ 
+
+  
+ 
+
+  
+</div>
+<a
+  href="/IMAGE_HOST/4522.png"
+  target="_blank"
+  class="mdui-fab mdui-fab-fixed mdui-ripple mdui-color-theme-accent"
+  ><i class="mdui-icon material-icons">file_download</i></a
+>
+<script>
+  document.querySelector("#admin-menu").innerHTML +=
+    '<li class="mdui-menu-item"><a href="javascript:void(0);"class="mdui-ripple downloadurl"><i class="mdui-menu-item-icon mdui-icon material-icons">cloud_download</i>下载链接</a></li>';
+  document.querySelector(
+    ".mdui-toolbar"
+  ).innerHTML += `<a href="javascript:;" class="mdui-btn mdui-btn-icon mdui-ripple mdui-hidden-sm-up downloadurl"><i class="mdui-icon material-icons">cloud_download</i></a>`;
+</script>
+
+
+</div>
+
+  </body>
+  
+  <script src="https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v1.3/js/app@1b381f3c.a4f2dc4618121eac37e2.js"></script><script src="https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v1.3/js/app@28a13772.98a11cc0c1cf2495c3d8.js"></script><script src="https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v1.3/js/app@34e3d95a.2f8dbf552095a86a7f1b.js"></script><script src="https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v1.3/js/app@798ab416.9ed46bb752b71a3c13a4.js"></script><script src="https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v1.3/js/app@9c50beac.30955a99f08c9574cd14.js"></script><script src="https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v1.3/js/app@f0256996.956ea71aa357ba3fdc28.js"></script><script src="https://cdn.jsdelivr.net/gh/186526/renexmoe-cdn@v1.3/js/webpack-runtime.93708ab3e9cb84dcc01a.js"></script>
+</html>
