@@ -1,3 +1,4 @@
+# iPhone 上的激光雷达有什么用
 
 今天凌晨的苹果发布会上，iPhone 12 正式面世。与基本机型相比，iPhone 12 Pro 和 iPhone 12 Pro Max 的后置摄像头除了多一枚长焦镜头，还增加了一颗 LiDAR，激光雷达扫描仪。
 
