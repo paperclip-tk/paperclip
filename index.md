@@ -1,4 +1,4 @@
-嗨，欢迎来到回形针PaperClip非官方文章备份站。
+嗨，欢迎来到回形针PaperClip非官方文章归档站。
 
 # 回形针PaperClip
 
@@ -21,7 +21,7 @@
 - [你的身体怎样培养出「超级细菌」](https://kl.cnurl.tk/paperclip/你的身体怎样培养出「超级细菌」)
 - [你究竟需要一把怎样的菜刀](https://kl.cnurl.tk/paperclip/你究竟需要一把怎样的菜刀)
 - [你究竟需要一把怎样的菜刀](https://kl.cnurl.tk/paperclip/你究竟需要一把怎样的菜刀)
-- [](https://kl.cnurl.tk/paperclip/)
+- [免费升舱这种好事，你怎么碰不上](https://kl.cnurl.tk/paperclip/免费升舱这种好事，你怎么碰不上)
 - [](https://kl.cnurl.tk/paperclip/)
 - [](https://kl.cnurl.tk/paperclip/)
 - [](https://kl.cnurl.tk/paperclip/)
@@ -41,8 +41,16 @@
 
 # 有点东西
 
-- [](https://kl.cnurl.tk/paperclip/)
-- [](https://kl.cnurl.tk/paperclip/)
+- [这是回形针的新栏目「有点东西」](https://kl.cnurl.tk/paperclip/有点东西：这是回形针的新栏目「有点东西」)
+- [在摇椅上煮出赛博朋克艺术品](https://kl.cnurl.tk/paperclip/有点东西：在摇椅上煮出赛博朋克艺术品)
+- [原谅让数理化长出小眼睛](https://kl.cnurl.tk/paperclip/有点东西：原谅让数理化长出小眼睛)
+- [会飞的鸡在睡梦中合成宝可梦](https://kl.cnurl.tk/paperclip/有点东西：会飞的鸡在睡梦中合成宝可梦)
+- [遥控朋克猫有节奏地清倒硬盘](https://kl.cnurl.tk/paperclip/有点东西：遥控朋克猫有节奏地清倒硬盘)
+- [拒绝加班徒步去抓星之卡比](https://kl.cnurl.tk/paperclip/有点东西：拒绝加班徒步去抓星之卡比)
+- [几何让阻尼感和灵感都乖乖站好](https://kl.cnurl.tk/paperclip/几何让阻尼感和灵感都乖乖站好)（**[待补档](https://wemp.app/posts/8eacc76c-0d03-46cb-a83d-c0c638dcf8a7)**）
+- [懒人在音乐、断食、电击中书写_blog](https://kl.cnurl.tk/paperclip/有点东西：懒人在音乐、断食、电击中书写_blog)
+- [有点东西：开发香喷喷的替代品与钱](https://kl.cnurl.tk/paperclip/有点东西：开发香喷喷的替代品与钱)
+- [有点东西：这五个推荐里，我们强烈推荐第一个](https://kl.cnurl.tk/paperclip/有点东西：这五个推荐里，我们强烈推荐第一个)
 
 # 基本操作
 
@@ -52,6 +60,10 @@
 # 说明
 
 “回形针PaperClip”按名称顺序排列，“基本操作”和“有点东西”按时间顺序排列。
+
+## 来源
+
+- WEMP：[回形针PaperClip](https://wemp.app/accounts/1d9ae7b3-ca58-4370-bd6a-9dd318e8c83a)
 
 ## 整理人员
 
