@@ -59,7 +59,8 @@
 
 # 说明
 
-“回形针PaperClip”按名称顺序排列，“基本操作”和“有点东西”按时间顺序排列。
+1. 正在搬运中，未正式发布。欢迎加入整理团队，打开[Github页面](https://github.com/Ken418/paperclip)然后在Discussions里吼一声就行。也可以发布Pull requests。
+2. 目前“回形针PaperClip”按名称顺序排列，“基本操作”和“有点东西”按时间顺序排列。
 
 ## 来源
 
@@ -76,3 +77,6 @@
 - [Telegram交流群](https://t.me/paperclipfans)
 - [干燥工厂淘宝店](https://shop362189133.taobao.com)
 - [基本操作](https://jibencaozuo.com)
+- [Steam上的基本操作PlayClass](https://store.steampowered.com/search/?developer=%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9CPlayClass)
+
+P.S.没收钱。
