@@ -1,195 +1,100 @@
 # 有点东西：懒人在音乐、断食、电击中书写 blog
 
-![img](https://paper-clips.vercel.app/其他/有点东西.jpg)
+![img](https://i.loli.net/2021/10/05/X5IUZ8sk67l4dyN.jpg)
 
-
-
-![img](https://paper-clips.vercel.app/IMAGE_HOST/4522.png)
+![img](https://i.loli.net/2021/10/06/Wu8Twkda9bxyURQ.png)
 
 「好看」：配色和排版非常舒服。
 
-
-
-![img](https://paper-clips.vercel.app/IMAGE_HOST/3424.jpg)
+![img](https://i.loli.net/2021/10/06/iPV8xreoLFcfksb.jpg)
 
 能量代谢局部图（左），发光生物图鉴（右）
 
-
-
 「科学」：为了展示病毒蛋白质外壳的真实结构，使用蛋白质数据库（PDB）中的结构数据在 Chimera 软件中进行 3D 建模。
-
-
 
 ![img](https://paper-clips.vercel.app/IMAGE_HOST/2341.gif)
 
-
-
 「不一定科学」：以下五种动物的飞行轨迹是作者 Eleanor Lutz 用假想曲线制作的，不过也是很用心了，快去白嫖！
 
-
-
-![img](https://mmbiz.qpic.cn/mmbiz_gif/SlOqFKqEO4HWpQwX9fQk89JvvwxvFmdZazQDFJWYibJSmbjh5OclURtWjV5mXa6KZSKy6ldIm7MPr5UoyvEeQtg/640?wx_fmt=gif)
-
-
+![img](https://i.loli.net/2021/10/06/y7jNC4VeiOlboYx.gif)
 
 博客链接：https://tabletopwhale.com/index.html
 
-
-
-
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/SlOqFKqEO4HWpQwX9fQk89JvvwxvFmdZG3NN8JVVNzk36PUIrZlJkW7Rhiarku97LiafIED6KP7vOhtaxajv7P3g/640?wx_fmt=png)
-
-
+![img](https://i.loli.net/2021/10/06/nFoJtfHrC7Emc5q.png)
 
 听腻了空洞的白噪音和一听就停不下来的有声内容后，能帮助入睡的东西愈发的难能可贵。
 
-
-
 在 Spotify 的推荐中，我发现了这张专辑，与其他的助眠内容有些与众不同。
 
-
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/SlOqFKqEO4HWpQwX9fQk89JvvwxvFmdZYHMcfZVria0HmNPibUAEzLsDj0W0nVLibicVicVkgKpQNbhKiaN2cGGAuveA/640?wx_fmt=png)
-
-
+![img](https://i.loli.net/2021/10/06/wLbHrie9TOZFuqs.png)
 
 用专辑里的「剧场观众」来举例吧，想象一下这样的场景：
 
-
-
 *「剧院里中场休息时，你靠在座椅上休息，周围传来人们的说话声。由于语言不通，你也听不懂周围的人在说什么，但是好像又能听出点什么。距离再次开场还有 20 分钟，你决定先睡一会儿。」*
-
-
 
 如果你也入睡困难，今晚就可以尝试一下。
 
-
-
 专辑链接：https://y.qq.com/n/ryqq/albumDetail/0034elPs0O0q7v
 
-
-
-
-
-
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/SlOqFKqEO4HWpQwX9fQk89JvvwxvFmdZ8XJTfdQPPf8RN7yGzInhBpEZKCPMgf0OGZDg2adWY1XfXiaE0XAQgibw/640?wx_fmt=png)
+![img](https://i.loli.net/2021/10/06/OIxT3yVQsWmcdFK.png)
 
 *「所有含有表面活性剂的清洁产品、以及防腐剂的护肤品都会让皮肤越来越差，破坏皮肤菌群平衡！*
 
-
-
 *用清洁产品清洗掉脸上的油脂后，皮肤会变干燥，任何补水产品都没用，并且补水产品干掉后，残留的化学物质会进一步吸收皮肤水分，毛孔只能重新分泌油脂来达到锁水的目的，导致毛孔腺体变大，造成毛孔变大等问题。*
-
-
 
 *抛弃所有护肤品、化妆品，皮肤就会变好！只用清水洗脸、洗头、洗澡就行了，皮肤会自动恢复平衡的菌群，不好的皮肤会随着代谢周期被好的皮肤替换。*
 
-
-
 *衣服也会残留洗衣粉的活性剂，请用皂粉。」*
-
-
 
 ——《减法护肤》
 
-
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/SlOqFKqEO4HWpQwX9fQk89JvvwxvFmdZEDcMCutA9pyg15H3PutnV1liaPVegIWQYcwPauicDc2y11jybxURoWAw/640?wx_fmt=png)
-
-
+![img](https://i.loli.net/2021/10/06/2RmqsCOEajwQ47d.png)
 
 **初体验：**
 
-
-
 经过我 5 天的实验，效果颇为明显！五天内，什么洗面奶、护肤品都没用，洗澡都用清水，洗头也用清水！
-
-
 
 头两天会有粉刺什么的，后两天就少了，然后以前很粗大的毛孔也小了不少。以前用沐浴露洗澡，身上经常会有脱皮发痒啥的，现在也少了。以前手臂上会看到干燥脱皮现象，现在也没了，针神奇！
 
-
-
 但是清水洗头，洗完之后头发还是会油油的，许多小朋友不喜欢，这里我推荐用肥皂，或者天然的沐浴皂液。我会隔一次洗澡用一次。
-
-
 
 书上说皮肤恢复短期内可能要一到两个月才能看到效果，但是就几天已经有肉眼可见的效果了！
 
-
-
 **写在最后：**
-
-
 
 当然，每个人的肤质不一样，效果不一样，有的肤质恢复起来比较慢，大家有疑惑可以买书看看，很薄一本书，一个小时左右就能翻完。
 
-
-
-
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/SlOqFKqEO4HWpQwX9fQk89JvvwxvFmdZDJymMRJ5Qc9XFWWKCelDMXHMwXlNbS3MHEUIXSLtoJYk8dzR3v3a3w/640?wx_fmt=png)
+![img](https://i.loli.net/2021/10/06/MgU2nNlpdyHCbL6.png)
 
 上周的推荐里，有不少人留言说「手机挂脖支架」虽然胳膊不酸了，但是会让脖子酸。
 
-
-
 这回哪都不会酸的来了！
 
-
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/SlOqFKqEO4HWpQwX9fQk89JvvwxvFmdZ3zBflBJxP4fFq1UlwhyGVAeLfUfaxN0tH4ZRugQ6dlJe4PvS1LHSxg/640?wx_fmt=png)
-
-
+![img](https://i.loli.net/2021/10/06/8tqAwcrIGkBXY6y.png)
 
 刷剧必备，可以解放双手（以及脖子）来吃零食，撸猫，打游戏（也不用担心困意来袭 pad 拍脸）任何你不想举着手机、pad 的时候，都可以把它架起来。
 
-
-
 如果担心看久了眼睛酸，可以配合「蒸汽眼罩」使用，帮你宅得更幸福。
 
-
-
-
-
-![img](https://mmbiz.qpic.cn/mmbiz_png/SlOqFKqEO4HWpQwX9fQk89JvvwxvFmdZ5dNB4arV9431CiamAjgslYfcFI7yAHL9XMjdfGKun9fexsQ47icbor2w/640?wx_fmt=png)
+![img](https://i.loli.net/2021/10/06/TyQGKBgkfNdSM97.png)
 
 相信很多 MacBook 的用户在使用过程中，尤其是充电的时候金属的外壳上摸起来会有一种酥酥麻麻的感觉。像极了爱情到来的瞬间，那种触电的感觉。
 
-
-
 不用怀疑！这就真的是触电！
-
-
 
 因为笔记本的主板会存在一定的漏电（在安全范围之内），有电就会通过金属的外壳传递到人身上，产生一种酥麻的感觉。
 
-
-
 不过用上了这种 MacBook 充电器延长线就可以完美解决心（chu）动（dian）的问题。
 
-
-
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/SlOqFKqEO4HWpQwX9fQk89JvvwxvFmdZPcYdOUc5KYqUloCyrXAXzo3Iib3N4U9u18Kbe4dkicFpeFxhSDSc3NHA/640?wx_fmt=jpeg)
-
-
+![img](https://i.loli.net/2021/10/06/fMsOJXGm9EizLut.jpg)
 
 这种延长线内部是有金属触点的，与充电器上的金属卡扣完美匹配，结合使用就可以接地，把主板的漏电传到大地上。让我们从爱情的心动当中抽离，重新成为一个冷酷无情码字工具人。
 
-
-
 同时可以解决因为充电器太重太大，在插座上插不进和插不稳的情况。
 
-
-
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/SlOqFKqEO4HWpQwX9fQk89JvvwxvFmdZcopEKiaRO7iaXIdtfia3n85gSfH6RibuVtbBHMovlzJjoZFYNPdRCrjn3w/640?wx_fmt=jpeg)
-
-
+![img](https://i.loli.net/2021/10/06/OxZrXSbf5clnKGm.jpg)
 
 \-
 
-
-
 >  **「有点东西」来征集好玩意儿啦！** 如果你也有什么好玩、好用的「东西」想分享给他人，欢迎给我们投稿！如果入选，我们会编辑好后在每一期的「有点东西」专栏发出，让更多人看到你的私藏宝藏~ 你可以将想推荐的东西直接发送至 **paperclip@foxmail.com**。每一封邮件我们都会看。 以下为推荐模板： *推荐人**给推荐的东西起一个小标题**推荐语（简简单单一两百字即可）**需要配图及推荐人头像* 期待你的投稿，你的「有点东西」。
+
