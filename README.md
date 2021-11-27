@@ -1,19 +1,19 @@
-# Paperclip-doc
+# 主页
 你的当代生活说明书。回形针PaperClip文章备份，与官方无关。
 
 [![Badge](https://img.shields.io/badge/link-ipaperclip.vercel.app-%23FF4D5B.svg)](https://ipaperclip.vercel.app) [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/paperclipfans)
 
-正在搬运中，未正式发布。欢迎加入整理团队，在Discussions里吼一声，我们会看到。也可以发布Pull requests。
+欢迎加入整理团队，在Discussions里吼一声，我们会看到。也可以发布Pull requests。
 
 ## 待办
 
 - [x] 搬运
 - [x] 检查补漏
 - [x] 调整格式
-- [ ] 将图片上传至图床
+- [x] 将图片上传至图床
 - [ ] 二次检查
-- [ ] Hexo
-- [ ] 发布
+- [x] Gitbook
+- [x] 发布
 
 ## 来源
 
