@@ -4,11 +4,9 @@
 
 一番排查后，你发现问题在于 Flash 所属的 Adobe 公司全面终止了对它的支持，基于 Flash 的内容在 Adobe Flash Player 中被阻止运行。最终，只能用安装盗版系统强行降级 Flash 版本的方法度过危机。
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/SlOqFKqEO4EMhMEia6XFXbx483POMzyno1uBnnCa57BuQIh9ST2gaAYxMlD2sKtgTZbbnmNvicXHsyq8ejJfZmXQ/640?wx_fmt=png)
+![img](https://i.loli.net/2021/10/24/3zRYLjnSD2cJhdQ.png)
 
 前几天还在办公室的 XP 电脑上偷菜、玩小游戏的大爷大妈不禁对你提出一个让他们困惑的问题：好好的软件，明明还能用，怎么说停就停了？
-
-
 
 ## **25 年前的活化石**
 
@@ -18,7 +16,7 @@ Flash 诞生于 1996 年。那时，互联网刚刚兴起，使用 14.4k 拨号�
 
 2020 年普及的最高民用带宽最高为 1000 Mbps，是当时的上万倍。当时要加载这样一张分辨率为 1079 x 1600、大小为 387 KB 的电影海报，要花掉三四分钟的时间。
 
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/SlOqFKqEO4EMhMEia6XFXbx483POMzynokx9B8evgBdJSegSPEM1cD0WUKoVZpefCib4RvVLBsp20ibibYyET56iaIQ/640?wx_fmt=jpeg)
+![img](https://i.loli.net/2021/10/24/9ch24tVGBes7MDp.jpg)
 
 所以，当时的互联网连在网页上多放些图都是奢侈。大部分网页仅仅展示静态、纯文字的内容。
 
@@ -40,7 +38,7 @@ Flash 在更新版本中加入了视频剪辑、在线视频播放、边下边�
 
 它还推出了支持鼠标键盘交互的功能，为社交网络的流行和线上游戏奠定了基础。在那时，做一个网站不用 Flash 几乎是不可想象的。
 
-![img](https://mmbiz.qpic.cn/mmbiz_gif/SlOqFKqEO4EMhMEia6XFXbx483POMzynoBrmLcZwsLhjaVjqqDxpqydLibibgN45uUFDJjN5y5tmXhuG6ibaQIgzTg/640?wx_fmt=gif)
+![img](https://i.loli.net/2021/10/24/JBVbKF96pzv2uco.gif)
 
 2000 年代，各式各样基于 Flash 的影视网站、恶搞动画、动画 MV、小游戏成了一代人的网络记忆。90% 以上的视频网站采用的是 Flash 格式的在线视频服务。
 
@@ -48,7 +46,7 @@ Flash 在更新版本中加入了视频剪辑、在线视频播放、边下边�
 
 那些制作精良的 Flash 游戏，点开网页就能玩，无需碟片安装，甚至具备好友互动、在线存档等功能，一度有压制专业游戏之势。
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/SlOqFKqEO4EMhMEia6XFXbx483POMzyno5f1wiceYpcRXfq08CpKibqy1huLmTGib1EgreoekpFdkk1ompWUF5NDfQ/640?wx_fmt=png)
+![img](https://i.loli.net/2021/10/24/dzYalugeNBOThI7.png)
 
 
 
@@ -62,7 +60,7 @@ Flash 的安全性原罪，在于它实在是太古老了。在它登场的时�
 
 而且，架构古老的 Flash 在系统中的权限很高，不受防火墙的阻拦，随便一个广告就可能就是病毒入侵的窗口。因此，Flash 糟糕的安全性一再闹出大新闻，成了漏洞的代名词。
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/SlOqFKqEO4EMhMEia6XFXbx483POMzynoINbnfXZecclIxPANkKdusscGsayneE9iagiabUPLZO8ia03uoXm7jmGNQ/640?wx_fmt=png)
+![img](https://i.loli.net/2021/10/24/Sqk52U4A1KzZYi7.png)
 
 不过，安全问题只是 Flash 死亡的一部分原因，更多的因素在于，它在技术浪潮中落伍了。
 
@@ -72,7 +70,7 @@ Flash 的安全性原罪，在于它实在是太古老了。在它登场的时�
 
 而且，平台和开发人员之间的第三方软件层最终会束缚平台的创新和发展。
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/SlOqFKqEO4EMhMEia6XFXbx483POMzynomyEM9luc2DHOick66QXduccn4jujoewkhicR1cYFgPatXkRhe4Qm6ouA/640?wx_fmt=png)
+![img](https://i.loli.net/2021/10/24/Tw2cLSgjymB8Ceb.png)
 
 此外，用手机上网和用电脑上网有一点本质区别：电池就是移动设备的命。Flash 的特点恰恰是大量征用系统资源，吞噬手机的电量，直至将它耗尽。就这样，古老庞大的 Flash 狠狠地摔下了移动互联网浪潮的车道。
 
@@ -88,13 +86,11 @@ Flash 的安全性原罪，在于它实在是太古老了。在它登场的时�
 
 Flash 插件体积小，压缩率高，效果还酷炫，PC 普及率又极高，似乎天生就是为了广告而生。随着优质创作者退场，广告占山为王。点开网页后防不胜防的弹窗和浮动条，让越来越多用户对 Flash 心生厌弃。
 
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/SlOqFKqEO4EMhMEia6XFXbx483POMzynoC0gBLOg6FM1DzFLKM7BYUJywcOmw2G8p6dKuuNZIMVlX3Krsx9Ch1g/640?wx_fmt=jpeg)
+![img](https://i.loli.net/2021/10/24/DEcbiC4rLqtQ17k.jpg)
 
 2017 年 7 月，谷歌在一份报告中指出，Chrome 用户中打开具有 Flash 内容的网站的比例，从三年前的 80％ 下降到仅 17％。
 
 如此恶性循环，让越来越多的开发者不再支持 Flash，Flash 越来越像一座孤岛。作为一款以盈利为目的的软件，却在无偿修 BUG 的道路上越走越远，终于让 Adobe 痛下杀心。
-
-
 
 ## **寿终正寝**
 
@@ -102,7 +98,7 @@ Flash 插件体积小，压缩率高，效果还酷炫，PC 普及率又极高�
 
 随后，各大互联网厂商也相继开始停止对 Flash 的支持。
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/SlOqFKqEO4EMhMEia6XFXbx483POMzyno5extdfpm3zT3t1poatGMaQ21gtm16eK6TONgfU2bDrYw1kaGj75jnA/640?wx_fmt=png)
+![img](https://i.loli.net/2021/10/24/SGi2ngbIlZH6Nja.png)
 
 在《通告》中，Adobe 承认：
 
@@ -112,13 +108,13 @@ Flash 插件体积小，压缩率高，效果还酷炫，PC 普及率又极高�
 
 HTML5 一开始就由手机厂商参与制定，能兼容多平台多尺寸。在安全性上，开源且受到大众监督的 HTML5 协议更是比古早的 Flash 强太多。
 
-![img](https://mmbiz.qpic.cn/mmbiz_jpg/SlOqFKqEO4EMhMEia6XFXbx483POMzynoQ6WMVN3opsDWRXwtTLyf5CCJQAJqjFaBQUyddbxNQZtYG3uokfCahQ/640?wx_fmt=jpeg)
+![img](https://i.loli.net/2021/10/24/kH3UND9Wf16FQaL.jpg)
 
 不过另一方面，当年 Flash 丰富的内容呈现能力，恰恰是制定 HTML5 协议的重要来源。
 
 而导致 Flash 寿终正寝的这些缺陷，对于中国年龄偏大的 PC 用户确实不那么重要，所以在 Flash  停止运作时，一些人才会特别诧异。
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/SlOqFKqEO4EMhMEia6XFXbx483POMzyno99wgaFCf4qpbJwMIMYmemodH8nDQ8wYbbESxfObvyhIMTTwWs8feUw/640?wx_fmt=png)
+![img](https://i.loli.net/2021/10/24/6ezipaUEPHsoDTg.png)
 
 就在前几天，Adobe 宣布除中国版以外的 Flash 插件将不能够播放任何内容。曾经的回忆封存在了 2021 年 1 月 12 日。
 

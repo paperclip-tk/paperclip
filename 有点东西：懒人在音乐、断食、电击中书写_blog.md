@@ -12,7 +12,7 @@
 
 「科学」：为了展示病毒蛋白质外壳的真实结构，使用蛋白质数据库（PDB）中的结构数据在 Chimera 软件中进行 3D 建模。
 
-![img](https://paper-clips.vercel.app/IMAGE_HOST/2341.gif)
+![img](https://i.loli.net/2021/10/24/7gnxRPe8wmJfoBz.png)
 
 「不一定科学」：以下五种动物的飞行轨迹是作者 Eleanor Lutz 用假想曲线制作的，不过也是很用心了，快去白嫖！
 
