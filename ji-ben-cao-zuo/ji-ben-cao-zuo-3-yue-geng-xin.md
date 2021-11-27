@@ -2,16 +2,13 @@
 
 两个月不见，这次我们有两项更新！分别关于《一个人工智能的诞生》和《和回形针一起做视频》。
 
-
-
 ## 一个人工智能的诞生
-
 
 最近我们的工作重心还是开发新内容。
 
 识别图像即将收尾整合！这是目前可以公开的内容。在这个交互里，我们会详细展示每个卷积结果是怎么算出来的，你还可以自己设计卷积核。
 
-![img](https://mmbiz.qpic.cn/mmbiz_gif/OqGIko5qXaeFntBt5nEI9g2uj8AH7Xj3HvamqRB768OvX5twcq7tlqCoibUQCm8Wdo5qz4ibLyEicRRjbmAggdsRg/640?wx_fmt=gif)
+![img](https://mmbiz.qpic.cn/mmbiz\_gif/OqGIko5qXaeFntBt5nEI9g2uj8AH7Xj3HvamqRB768OvX5twcq7tlqCoibUQCm8Wdo5qz4ibLyEicRRjbmAggdsRg/640?wx\_fmt=gif)
 
 即将到来的 11 集交互画面
 
@@ -19,7 +16,7 @@
 
 ![img](https://i.loli.net/2021/10/04/jPYqt4LKs69xvAO.png)
 
-邪恶复杂的 LSTM！我们也将在识别语言中*稍微*触及一些
+邪恶复杂的 LSTM！我们也将在识别语言中_稍微_触及一些
 
 除此之外，这是之前内容的更新，感谢大家的捉虫！
 
@@ -29,8 +26,6 @@
 4. 优化播放器加载资源逻辑，解决了一部分黑屏问题
 5. 优化了站点及交互更新机制
 
-
-
 ## 和回形针一起做视频
 
 今天我们也还上了新杂志——
@@ -39,7 +34,7 @@
 
 杂志这次我们尝试了新的采访方案——这期有视频了。
 
-我们视频采访了这期的作者星水星。《[吊威亚如何让你飞檐走壁](https://mp.weixin.qq.com/s?__biz=MzA3NDM1MjUwNg==&mid=2247491392&idx=1&sn=8818d3991123589d7d6792f7cd5f4b04&scene=21#wechat_redirect)》是自他来这里实习的第一个作品，他聊了一下为什么选这个题，还有没写进稿子的遗憾的点。
+我们视频采访了这期的作者星水星。《[吊威亚如何让你飞檐走壁](https://mp.weixin.qq.com/s?\_\_biz=MzA3NDM1MjUwNg==\&mid=2247491392\&idx=1\&sn=8818d3991123589d7d6792f7cd5f4b04\&scene=21#wechat\_redirect)》是自他来这里实习的第一个作品，他聊了一下为什么选这个题，还有没写进稿子的遗憾的点。
 
 这期的分镜也是新人，这是她来回形针之后的第四个作品，她讲了一些她做分镜时遇到的难点和考虑。动效老师小吊梨汤分享了他的修改思路。你可以看到从 A copy 到成片的一些细节修改。
 
