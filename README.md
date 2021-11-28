@@ -1,7 +1,7 @@
 # 主页
 你的当代生活说明书。回形针PaperClip文章备份，与官方无关。
 
-[![Badge](https://img.shields.io/badge/link-article.paperclip.eu.org-%23FF4D5B.svg)](https://paperclip.eu.org) [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/paperclipfans) [![Badge](https://img.shields.io/badge/Email-hi@paperclip.tk-%23FF4D5B.svg)](mailto:hi@paperclip.tk)
+[![Badge](https://img.shields.io/badge/link-article.paperclip.tk-%23FF4D5B.svg)](https://paperclip.tk) [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/paperclipfans) [![Badge](https://img.shields.io/badge/Email-hi@paperclip.tk-%23FF4D5B.svg)](mailto:hi@paperclip.tk)
 
 若有任何问题，可以发布Issue（议题）或者发送邮件至[hi@paperclip.tk](mailto:hi@paperclip.tk)。
 
@@ -24,7 +24,7 @@
 
 ## 广告
 
-- [paperclip.eu.org](https://paperclip.eu.org)
+- [回形针PaperClip和大象公会视频归档站](https://paperclip.tk)
 - Telegram交流群：[@paperclipfans](https://t.me/paperclipfans)
 - [干燥工厂淘宝店](https://shop362189133.taobao.com)
 - [基本操作](https://jibencaozuo.com)
