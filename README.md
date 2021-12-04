@@ -1,7 +1,7 @@
 # 主页
 你的当代生活说明书。回形针PaperClip文章备份，与官方无关。
 
-[![​stars​](https://img.shields.io/github/stars/paperclip-tk/paperclip?style=social)](https://github.com/paperclip-tk/paperclip) [![Badge](https://img.shields.io/badge/link-article.paperclip.tk-%23FF4D5B.svg)](https://article.paperclip.tk) [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/paperclipfans) [![Badge](https://img.shields.io/badge/Email-hi@paperclip.tk-%23FF4D5B.svg)](mailto:hi@paperclip.tk)
+[![​stars​](https://img.shields.io/github/stars/paperclip-tk/paperclip?style=social)](https://github.com/paperclip-tk/paperclip) [![Badge](https://img.shields.io/badge/Link-article.paperclip.tk-%23FF4D5B.svg)](https://article.paperclip.tk) [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/paperclipfans) [![Badge](https://img.shields.io/badge/Email-hi@paperclip.tk-%23FF4D5B.svg)](mailto:hi@paperclip.tk)
 
 若有任何问题，可以发布Issue（议题）或者发送邮件至[hi@paperclip.tk](mailto:hi@paperclip.tk)。
 
