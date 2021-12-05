@@ -1,5 +1,5 @@
 ---
-description: 你的当代生活说明书。回形针PaperClip文章备份，与官方无关。
+description: 你的当代生活说明书。回形针PaperClip文章备份站，与官方无关。
 cover: >-
   https://images.unsplash.com/photo-1597484662317-9bd7bdda2a45?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxjbGlwfGVufDB8fHx8MTYzODY4NDA5Mw&ixlib=rb-1.2.1&q=85
 coverY: 0
@@ -28,7 +28,7 @@ coverY: 0
 * [@gamekiller0010](https://github.com/gamekiller0010)
 * [@qiaoshouzi](https://github.com/qiaoshouzi)
 
-## 广告
+## 友情链接
 
 * [回形针PaperClip和大象公会视频归档站](https://paperclip.tk)
 * Telegram交流群：[@paperclipfans](https://t.me/paperclipfans)
