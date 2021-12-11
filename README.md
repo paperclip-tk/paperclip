@@ -18,7 +18,7 @@ coverY: 0
 1. 打开[Github仓库](https://github.com/paperclip-tk/paperclip)，Fork（复刻）我们的项目，编辑后发布Pull requests（拉取请求）。
 2. 打开[Github仓库](https://github.com/paperclip-tk/paperclip)，通过Code（代码）→Download ZIP（下载ZIP压缩包），编辑后将修改或新增的文件以附件的形式发送至[submit@paperclip.tk](mailto:submit@paperclip.tk)。
 
-文章列表请见[SUMMARY.md](SUMMARY.md)。文章来源：[WeMP](https://wemp.app/accounts/1d9ae7b3-ca58-4370-bd6a-9dd318e8c83a)。
+文章列表请见[SUMMARY.md](SUMMARY.md)。文章来自[WeMP](https://wemp.app/accounts/1d9ae7b3-ca58-4370-bd6a-9dd318e8c83a)。
 
 ## 整理人员
 
