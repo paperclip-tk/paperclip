@@ -1,10 +1,3 @@
----
-description: 你的当代生活说明书。回形针PaperClip文章备份站，与官方无关。
-cover: >-
-  https://images.unsplash.com/photo-1597484662317-9bd7bdda2a45?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxjbGlwfGVufDB8fHx8MTYzODY4NDA5Mw&ixlib=rb-1.2.1&q=85
-coverY: 0
----
-
 # 首页
 
 [![​stars​](https://img.shields.io/github/stars/paperclip-tk/paperclip?style=social)](https://github.com/paperclip-tk/paperclip) [![Badge](https://img.shields.io/badge/Link-article.paperclip.tk-%23FF4D5B.svg)](https://article.paperclip.tk) [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/paperclipfans) [![Badge](https://img.shields.io/badge/Email-hi@paperclip.tk-%23FF4D5B.svg)](mailto:hi@paperclip.tk)
