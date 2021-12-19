@@ -1,8 +1,14 @@
-# 有点东西：会飞的鸡在睡梦中合成宝可梦
+---
+title: 有点东西：会飞的鸡在睡梦中合成宝可梦
+description:
+date: 2021-12-18T10:44:09.123Z
+tags:
+    - 有点东西
+editor: markdown
+dateCreated: 2021-12-18T10:44:09.123Z
+---
 
 ![img](https://i.loli.net/2021/10/05/X5IUZ8sk67l4dyN.jpg)
-
-
 
 ![img](https://i.loli.net/2021/10/06/mFPaoQZfNbEMvnT.png)
 

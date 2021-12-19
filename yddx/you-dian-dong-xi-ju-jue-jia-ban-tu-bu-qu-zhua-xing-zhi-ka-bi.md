@@ -1,4 +1,12 @@
-# 有点东西：拒绝加班徒步去抓星之卡比
+---
+title: 有点东西：拒绝加班徒步去抓星之卡比
+description:
+date: 2021-12-18T10:44:09.123Z
+tags:
+    - 有点东西
+editor: markdown
+dateCreated: 2021-12-18T10:44:09.123Z
+---
 
 ![img](https://i.loli.net/2021/10/05/X5IUZ8sk67l4dyN.jpg)
 
