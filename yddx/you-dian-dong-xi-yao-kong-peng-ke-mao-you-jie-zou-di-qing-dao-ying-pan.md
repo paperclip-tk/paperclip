@@ -1,12 +1,4 @@
----
-title: 有点东西：遥控朋克猫有节奏地清倒硬盘
-description:
-date: 2021-12-18T10:44:09.123Z
-tags:
-    - 有点东西
-editor: markdown
-dateCreated: 2021-12-18T10:44:09.123Z
----
+# 有点东西：遥控朋克猫有节奏地清倒硬盘
 
 ![img](https://i.loli.net/2021/10/05/X5IUZ8sk67l4dyN.jpg)
 
@@ -38,7 +30,7 @@ YubiKey 则是保障现代网络居民信息安全的重要装备，只需要往
 
 官网地址：
 
-<https://www.jam-software.com/treesize_free>
+https://www.jam-software.com/treesize_free
 
 ![img](https://i.loli.net/2021/10/06/QZ4lFMh6kI7RYpj.png)
 
@@ -52,11 +44,13 @@ Wolfram Alpha 不是像百度或者谷歌那样的搜索引擎，而是一个能
 
 ![img](https://i.loli.net/2021/10/06/2vEOZgqBoaCnuY3.png)
 
-网页链接：<https://www.wolframalpha.com/>
+网页链接：
+
+https://www.wolframalpha.com/
 
 ![img](https://i.loli.net/2021/10/06/Fj73CvBSkMQZLD4.png)
 
-![img](https://i.loli.net/2021/10/06/iQNt4fW3jyZYBMz.png)
+![img](https://i.loli.net/2021/10/06/iQNt4fW3jyZYBMz.png) 
 
 洗足音乐大学确实是一个正经音乐大学。如果你看过《吹响吧！上低音号》，你可能已经听过他们学生的作品了，里面的管弦乐就是由这个大学的学生演奏的。
 
@@ -76,7 +70,7 @@ Wolfram Alpha 不是像百度或者谷歌那样的搜索引擎，而是一个能
 
 网页链接：
 
-<https://www.senzoku-online.jp/solfege/rhythmn/>
+https://www.senzoku-online.jp/solfege/rhythmn/
 
 ![img](https://i.loli.net/2021/10/06/QUfSDxtkpqPjX2i.png)
 
@@ -91,3 +85,4 @@ Wolfram Alpha 不是像百度或者谷歌那样的搜索引擎，而是一个能
 ![img](https://i.loli.net/2021/10/06/FHMz5ZCXkPJOiKb.png)
 
 而且还挺好看的。
+

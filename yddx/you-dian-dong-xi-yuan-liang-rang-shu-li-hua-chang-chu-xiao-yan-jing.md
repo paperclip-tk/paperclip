@@ -1,20 +1,20 @@
----
-title: 有点东西：原谅让数理化长出小眼睛
-description:
-date: 2021-12-18T10:44:09.123Z
-tags:
-    - 有点东西
-editor: markdown
-dateCreated: 2021-12-18T10:44:09.123Z
----
+# 有点东西：原谅让数理化长出小眼睛
 
 ![img](https://i.loli.net/2021/10/05/X5IUZ8sk67l4dyN.jpg)
+
+
+
+
 
 ![img](https://i.loli.net/2021/10/06/SjgbvFz2NQowePt.png)
 
 啊~美丽的春天，它又来了，这是一个美好的季节，万物复苏。枯燥乏味的黄土上再一次点缀上了郁郁葱葱的绿色，让人感到心旷神怡，绿得让人发慌。
 
+
+
 作为一名对奇装异服颇有研究的怪异人类，我非常真诚地向您推荐这款针织衫。你看！上面印的每一个字都饱含情感，每一个笔划背后都是一段惊天动地的故事！
+
+
 
 穿着这件衣服出门，你就是街上最靓的青年！是世界的焦点！是宇宙的未来！
 
@@ -36,11 +36,11 @@ QuickLook 可以查看各种图片、音视频文件、压缩包等等，甚至�
 
 这么好的工具可以在 Microsoft Store 找到。获取链接：
 
-<https://www.microsoft.com/zh-cn/p/quicklook/9nv4bs3l1h4s>
+https://www.microsoft.com/zh-cn/p/quicklook/9nv4bs3l1h4s
 
 或者作者的 Github 页面获取。获取链接：
 
-<https://github.com/QL-Win/QuickLook/releases>
+https://github.com/QL-Win/QuickLook/releases
 
 ![img](https://i.loli.net/2021/10/06/AobsP4x2MzQYO9K.png)
 
@@ -50,6 +50,8 @@ QuickLook 可以查看各种图片、音视频文件、压缩包等等，甚至�
 
 ![img](https://i.loli.net/2021/10/06/zCIZFB27fHmUYAx.png)
 
+
+
 眼睛有不同的大小，完美适配不同大小的物品和玩具。同时你也可以选择获得一些不对称的美。如果是克苏鲁文化爱好者，也可以多贴亿些，甚至能听到耳边传来的低语。
 
 ![img](https://i.loli.net/2021/10/06/sVCExGaDmIUcwuW.png)
@@ -58,7 +60,7 @@ QuickLook 可以查看各种图片、音视频文件、压缩包等等，甚至�
 
 获取链接：
 
-<https://www.beautifulchemistry.net/>
+https://www.beautifulchemistry.net/
 
 用微距摄影、高速摄影、延时摄影和红外热成像等特殊技术，寻找隐藏维度下的化学之美。
 
@@ -72,7 +74,7 @@ QuickLook 可以查看各种图片、音视频文件、压缩包等等，甚至�
 
 打开下面的链接：
 
-<http://acko.net/blog/animate-your-way-to-glory/>
+http://acko.net/blog/animate-your-way-to-glory/
 
 给基本操作找参考时偶然发现的个人网站。这篇文章以动效为切入点，讲解了向量、微积分等数学基础知识，细致且清晰。
 

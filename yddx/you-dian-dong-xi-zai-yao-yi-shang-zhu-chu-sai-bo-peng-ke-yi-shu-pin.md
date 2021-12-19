@@ -1,12 +1,4 @@
----
-title: 有点东西：在摇椅上煮出赛博朋克艺术品
-description:
-date: 2021-12-18T10:44:09.123Z
-tags:
-    - 有点东西
-editor: markdown
-dateCreated: 2021-12-18T10:44:09.123Z
----
+# 有点东西：在摇椅上煮出赛博朋克艺术品
 
 ![img](https://i.loli.net/2021/10/05/X5IUZ8sk67l4dyN.jpg)
 
@@ -56,7 +48,7 @@ dateCreated: 2021-12-18T10:44:09.123Z
 
 弹幕前括号里的数字就是有多少条弹幕被合并，如果有很多的话，字号也会变大，虽然没有刷满屏，也能感觉到很热闹。
 
-作者链接：<https://s.xmcp.ml/pakkujs/?src=wext_homepage>
+作者链接：https://s.xmcp.ml/pakkujs/?src=wext_homepage
 
 ![img](https://i.loli.net/2021/10/06/NLuRJUACreX1xjY.png)
 
@@ -74,7 +66,7 @@ dateCreated: 2021-12-18T10:44:09.123Z
 
 2.在 iPhone 上用 safari 浏览器（系统默认浏览器）打开下面的链接：
 
-<https://www.icloud.com/shortcuts/62c7058232624f68a10f387bc73ebd35>
+https://www.icloud.com/shortcuts/62c7058232624f68a10f387bc73ebd35
 
 3.打开后，会显示让你添加快捷指令，滑到最底部，点击「添加不受信任的快捷指令」（因为是个人写的快捷指令啦）。
 
@@ -91,3 +83,4 @@ dateCreated: 2021-12-18T10:44:09.123Z
 ![img](https://i.loli.net/2021/10/06/WhNQuLbyT9VY1GI.png)
 
 至此，你就不必每天再辛苦选择吃什么，而只需要决定 「再摇一次」或「OK」就行了！
+

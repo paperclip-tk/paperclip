@@ -1,13 +1,3 @@
----
-title: 有点东西：几何让阻尼感和灵感都乖乖站好
-description:
-date: 2021-12-18T10:44:09.123Z
-tags:
-    - 有点东西
-editor: markdown
-dateCreated: 2021-12-18T10:44:09.123Z
----
-
 ![img](https://i.loli.net/2021/10/05/X5IUZ8sk67l4dyN.jpg)
 
 ![img](https://i.loli.net/2021/10/06/mtu3Ua4n12XpO86.png)
@@ -59,6 +49,8 @@ dateCreated: 2021-12-18T10:44:09.123Z
 为了让伯恩的作品重回当代，设计师 Nicholas Rougeux 对其进行了数字化再现。除了加入大量交互动画让你更好地理解证明过程，还为更大限度保留原书排版的优美性，在 Adobe Caslon 中创作了一套复古字体，你可以网站中免费下载和使用。
 
 ![img](https://i.loli.net/2021/10/06/C45nrZvSOLkbXcM.png)
+
+
 
 进入这个网站开启你的几何之旅：
 

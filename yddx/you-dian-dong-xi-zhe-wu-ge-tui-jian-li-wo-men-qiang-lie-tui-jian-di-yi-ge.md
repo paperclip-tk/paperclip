@@ -1,12 +1,4 @@
----
-title: 有点东西：这五个推荐里，我们强烈推荐第一个
-description:
-date: 2021-12-18T10:44:09.123Z
-tags:
-    - 有点东西
-editor: markdown
-dateCreated: 2021-12-18T10:44:09.123Z
----
+# 有点东西：这五个推荐里，我们强烈推荐第一个
 
 ![img](https://i.loli.net/2021/10/05/X5IUZ8sk67l4dyN.jpg)
 
@@ -20,7 +12,7 @@ dateCreated: 2021-12-18T10:44:09.123Z
 
 目前产品还在预售阶段，不过还是可以值得期待一下！
 
-购买链接：<https://item.taobao.com/item.htm?id=645658608398>
+购买链接：https://item.taobao.com/item.htm?id=645658608398
 
 ![img](https://i.loli.net/2021/10/06/3GqTNP6O1Rr4pUd.png)
 
@@ -40,7 +32,7 @@ dateCreated: 2021-12-18T10:44:09.123Z
 
 *1.买一些 NFC 贴纸，等快递的时候下载 Toggl Track，建个账号。*
 
-*（也有网页版 <https://toggl.com/）>*
+*（也有网页版 https://toggl.com/）*
 
 *先来设置 Toggl Track。打开 Toggl Track>Settings>Siri Shortcuts>Start timer with custom details。*
 
@@ -56,7 +48,7 @@ dateCreated: 2021-12-18T10:44:09.123Z
 
 ![img](https://i.loli.net/2021/10/06/zAysPoFmHBkevWV.jpg)
 
-更详细的使用指南见：<https://www.youtube.com/watch?v=e_SKyiGgilg>
+更详细的使用指南见：https://www.youtube.com/watch?v=e_SKyiGgilg
 
 ![img](https://i.loli.net/2021/10/06/Den8SRwaFWKPUTl.png)
 
@@ -92,6 +84,6 @@ dateCreated: 2021-12-18T10:44:09.123Z
 
 下载方式：安卓各大应用市场搜索「发条」；
 
-iOS 目前只有 TF 版本：<https://testflight.apple.com/join/PWzFfroS>
+iOS 目前只有 TF 版本：https://testflight.apple.com/join/PWzFfroS
 
-> **「有点东西」来征集好玩意儿啦！** 如果你也有什么好玩、好用的「东西」想分享给他人，欢迎给我们投稿！如果入选，我们会编辑好后在每一期的「有点东西」专栏发出，让更多人看到你的私藏宝藏~ 你可以将想推荐的东西直接发送至 **paperclip@foxmail.com**。每一封邮件我们都会看。 以下为推荐模板： *推荐人**给推荐的东西起一个小标题**推荐语（简简单单一两百字即可）**需要配图及推荐人头像* 期待你的投稿，你的「有点东西」。
+>  **「有点东西」来征集好玩意儿啦！** 如果你也有什么好玩、好用的「东西」想分享给他人，欢迎给我们投稿！如果入选，我们会编辑好后在每一期的「有点东西」专栏发出，让更多人看到你的私藏宝藏~ 你可以将想推荐的东西直接发送至 **paperclip@foxmail.com**。每一封邮件我们都会看。 以下为推荐模板： *推荐人**给推荐的东西起一个小标题**推荐语（简简单单一两百字即可）**需要配图及推荐人头像* 期待你的投稿，你的「有点东西」。
