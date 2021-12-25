@@ -8,9 +8,12 @@ description: 你的当代生活说明书。回形针PaperClip文章备份，与�
 
 若有任何问题，可以发布 Issue 或者发送邮件至 [hi@paperclip.tk](mailto:hi@paperclip.tk)。
 
-## 友情链接
+## 相关项目
 
 * [回形针PaperClip视频归档站](https://www.paperclip.tk)
 * [回形针PaperClip文字稿备份站](https://text.paperclip.tk)
+
+## 友情链接
+
 * [干燥工厂淘宝店](https://shop362189133.taobao.com)
 * [基本操作](https://jibencaozuo.com)
