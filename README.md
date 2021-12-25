@@ -10,6 +10,7 @@ description: 你的当代生活说明书。回形针PaperClip文章备份，与�
 
 ## 友情链接
 
-* [回形针PaperClip视频归档站](https://paperclip.tk)
+* [回形针PaperClip视频归档站](https://www.paperclip.tk)
+* [回形针PaperClip文字稿备份站](https://text.paperclip.tk)
 * [干燥工厂淘宝店](https://shop362189133.taobao.com)
 * [基本操作](https://jibencaozuo.com)
